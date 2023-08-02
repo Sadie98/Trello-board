@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@vueuse/nuxt": "^10.3.0",
+    "date-fns": "^2.30.0",
     "nanoid": "^4.0.2",
     "prettier": "^3.0.0",
     "vuedraggable": "^4.1.0"
